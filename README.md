@@ -14,3 +14,5 @@ Running the script
 To run the script you will have run it in GitBash or any other terminal by typing
 node *where your file is located*/app.js
 Then it will open up in localhost:3000.
+
+(clone of weather webiste from dosu199)
